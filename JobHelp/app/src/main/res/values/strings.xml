@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TablaKoveto</string>
+    <string name="search_bar_hint">Keresés</string>
+
+    <string name="login_title">Bejelentkezés</string>
+    <string name="login_email_txt">E-mail</string>
+    <string name="login_password_txt">Jelszó</string>
+    <string name="login_button_txt">Belépés</string>
+
+    <string name="profile_title">Profil</string>
+    <string name="profile_fullname">Teljes név</string>
+    <string name="profile_department">Munkakör</string>
+    <string name="profile_email">E-mail</string>
+    <string name="profile_county">Megye</string>
+    <string name="profile_password">Jelszó</string>
+
+    <string name="profile_edit_title">Profil szerkesztés</string>
+    <string name="profile_edit_password">Új jelszó</string>
+    <string name="profile_edit_confirm">Új jelszó még egyszer</string>
+
+    <string name="admin_main_title">Adminisztráció</string>
+    <string name="admin_new_title">Új felhasználó</string>
+    <string name="admin_user_edit_title">Módosítás</string>
+    <string name="admin_new_user_department">Válassz egy munkakört</string>
+    <string name="admin_new_user_county">Válassz egy megyét</string>
+    <string name="admin_status_title">Állapot: aktív</string>
+    <string name="admin_circles_title">Munkák</string>
+    <string name="admin_user_details">Részletek</string>
+
+    <string name="jobs_title">Munkák</string>
+    <string name="billboards_title">Táblák</string>
+</resources>

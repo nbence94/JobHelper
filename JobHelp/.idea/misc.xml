@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/ExcelImportalasProject/app/src/main/res/layout/activity_admin_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/ExcelImportalasProject/app/src/main/res/layout/activity_main.xml" value="0.18659420289855072" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/ExcelImportalasProject/app/src/main/res/layout/custom_circle_details.xml" value="0.23867753623188406" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/ExcelImportalasProject/app/src/main/res/layout/custom_layout.xml" value="0.18659420289855072" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/ExcelImportalasProject/app/src/main/res/xml/file_path.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/button_error_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/button_success_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/button_warning_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/dialog_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/error_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/success_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/drawable/warning_background.xml" value="0.2703125" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_admin_main.xml" value="0.2246376811594203" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_admin_new_user.xml" value="0.25226449275362317" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_admin_user_profile.xml" value="0.25226449275362317" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_job.xml" value="0.2246376811594203" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_job_details.xml" value="0.23596014492753623" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_login_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_main.xml" value="0.23596014492753623" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_main_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_profile.xml" value="0.23143115942028986" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/activity_profile_edit.xml" value="0.23596014492753623" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/button_error_background.xml" value="0.24230072463768115" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/custom_admin_userrecycler_gui.xml" value="0.2246376811594203" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/custom_billboard_layout.xml" value="0.264" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/custom_billboard_layout_masolat.xml" value="0.2269021739130435" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/custom_single_elements_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_error_dialog.xml" value="0.24230072463768115" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_info_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_multiselect_dialog.xml" value="0.264" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_multiselect_dialog_exp.xml" value="0.25271739130434784" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_success_dialog.xml" value="0.24230072463768115" />
+        <entry key="..\:/02 PROGRAMING/00 PROGRAMNYELVEK/ANDROID/Szakdolgozat/app/src/main/res/layout/layout_warning_dialog.xml" value="0.24230072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
